@@ -16,19 +16,19 @@ Step into the magical realm of my portfolio, where you'll witness the spells I'v
   
 Together, let's shape a digital landscape that radiates with wonder and awe!
 </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=socool728" />
-<!--   <img src="https://komarev.com/ghpvc/?username=socool728&style=flat-square&color=blue" alt="" align="center"/> -->
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=softdev0810" />
+<!--   <img src="https://komarev.com/ghpvc/?username=softdev0810&style=flat-square&color=blue" alt="" align="center"/> -->
 <h2 align="center"></h2>
 
 <!-- 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=socool728&style=flat-square&color=blue" alt="" align="center"/>
+<img src="https://komarev.com/ghpvc/?username=softdev0810&style=flat-square&color=blue" alt="" align="center"/>
 </div> -->
 
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=socool728&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/socool728/github-widgetbox) -->
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=softdev0810&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/softdev0810/github-widgetbox) -->
 
 <p align="center">
-  <a href="https://github.com/socool728">
+  <a href="https://github.com/softdev0810">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Full%20Stack%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p>
@@ -135,17 +135,17 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
 <div align='center'>
-  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=socool728&layout=compact&langs_count=7&theme=dark">
+  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdev0810&layout=compact&langs_count=7&theme=dark">
   <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=socool728&theme=darkhub&row=1&column=6" alt="trophy">
+    <img  src="https://github-profile-trophy.vercel.app/?username=softdev0810&theme=darkhub&row=1&column=6" alt="trophy">
   </a>
   <br/>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
-    <img height="150em" alt="socool728's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/socool728?cardType=level&theme=dark&preferLogin=false" />
+    <img height="150em" alt="softdev0810's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/softdev0810?cardType=level&theme=dark&preferLogin=false" />
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=socool728&theme=dark" alt="GitHub Streak">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=softdev0810&theme=dark" alt="GitHub Streak">
   </a>
 </div>
 <br/>
@@ -153,11 +153,11 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
    <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
    </br>
     <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=socool728&theme=dark" alt="Profile Details">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=socool728&theme=dark" alt="Repos per Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=socool728&theme=dark" alt="Most Commit Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=socool728&theme=dark" alt="Stats">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=socool728&theme=dark&utcOffset=8" alt="Productive Time">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=softdev0810&theme=dark" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=softdev0810&theme=dark" alt="Repos per Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=softdev0810&theme=dark" alt="Most Commit Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=softdev0810&theme=dark" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=softdev0810&theme=dark&utcOffset=8" alt="Productive Time">
     </div>
    </br>
 </details>
@@ -167,39 +167,3 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;"
     src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
  </div>
-
-  
-  
-  
- 
-<!--
-<h1 font-weight="bold">
-  📮 How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-</h1>
-
-<p align='center'>
-  <a href="mailto:rabihsadi43@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://join.skype.com/invite/rMhxTyhMq7W7" target="_blank">
-    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
-  </a>
-  <a href="https://t.me/socool728">
-    <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://discordapp.com/users/socool728">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://www.linkedin.com/in/rabih-sadi/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-  <a href="https://twitter.com/AndyChris9474">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a> 
-
-</p> -->
- 
-  
-  
-  
