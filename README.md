@@ -9,7 +9,7 @@ With a wave of my code-infused wand, I breathe life into captivating user interf
 But my sorcery doesn't end there! I possess the mystical knowledge of backend alchemy, wielding the potent forces of Node.js, Express, Django, Ruby on Rails, Laravel, and more. With these powers, I create robust functionalities and seamless interactions that leave users mesmerized.
   
 </p>
-<img align="right" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
+<img align="left" width="400" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 <p>
 Step into the magical realm of my portfolio, where you'll witness the spells I've cast and the captivating wonders I've crafted. Whether you seek a magical collaboration, wish to unlock the secrets of the digital universe, or simply desire to connect with a kindred spirit, I eagerly await your presence!
   
