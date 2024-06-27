@@ -15,7 +15,7 @@ Step into the magical realm of my portfolio, where you'll witness the spells I'v
   
 Together, let's shape a digital landscape that radiates with wonder and awe!
 </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=softdev0810" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=softdev0810" />
 <!--   <img src="https://komarev.com/ghpvc/?username=softdev0810&style=flat-square&color=blue" alt="" align="center"/> -->
 <h2 align="center"></h2>
 
