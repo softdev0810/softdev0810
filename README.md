@@ -148,21 +148,3 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   </a>
 </div>
 <br/>
-<details>
-   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
-   </br>
-    <div align='center'>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=softdev0810&theme=dark" alt="Profile Details">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=softdev0810&theme=dark" alt="Repos per Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=softdev0810&theme=dark" alt="Most Commit Language">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=softdev0810&theme=dark" alt="Stats">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=softdev0810&theme=dark&utcOffset=8" alt="Productive Time">
-    </div>
-   </br>
-</details>
-
-
-<div style="display: inline_block"><br>
-  <img align="right" alt="Bruna-pic" height="150" style="border-radius:50px;"
-    src="https://media.discordapp.net/attachments/903018166219866122/982029010697609296/unknown.png">
- </div>
