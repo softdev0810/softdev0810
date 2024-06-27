@@ -133,7 +133,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
 <div align='center'>
-  <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdev0810&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img alt="stats" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdev0810&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
   <a href="#">
     <img  src="https://github-profile-trophy.vercel.app/?username=softdev0810&theme=darkhub&row=1&column=6" alt="trophy">
   </a>
@@ -147,6 +147,5 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   </a>
   <br/>
 <!--   <img alt="stats" height="200em" src="https://github-contributor-stats.vercel.app/api?username=softdev0810&limit=5&theme=dark&combine_all_yearly_contributions=true">-->
-![](https://github-contributor-stats.vercel.app/api?username=livedeveloper823&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 <br/>
