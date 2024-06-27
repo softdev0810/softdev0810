@@ -133,10 +133,10 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
 <div align='center'>
-<!--   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdev0810&layout=compact&langs_count=7&theme=dark">
+<!--   <img alt="stats" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdev0810&layout=compact&langs_count=7&theme=dark"> -->
   <a href="#">
     <img  src="https://github-profile-trophy.vercel.app/?username=softdev0810&theme=darkhub&row=1&column=6" alt="trophy">
-  </a> -->
+  </a>
   <br/>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
     <img height="150em" alt="softdev0810's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/softdev0810?cardType=level&theme=dark&preferLogin=false" />
