@@ -16,7 +16,6 @@ Step into the magical realm of my portfolio, where you'll witness the spells I'v
   
 Together, let's shape a digital landscape that radiates with wonder and awe!
 </p> -->
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=softdev0810" />
 <!--   <img src="https://komarev.com/ghpvc/?username=softdev0810&style=flat-square&color=blue" alt="" align="center"/> -->
 <h2 align="center"></h2>
 
@@ -29,7 +28,8 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 
 <p align="center">
   <a href="https://github.com/softdev0810">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Senior%20Back%20End%20Developer;Full%20Stack%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Senior%20Back%20End%20Developer;Full%20Stack%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Senior%20Back%20End%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p>
 
