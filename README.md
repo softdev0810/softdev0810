@@ -2,7 +2,7 @@
 🌟✨ Welcome ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I am a Legendary Star of FULL-STACK alchemy.
 </h2>
 
-<h1>🧙‍♀️ About Me</h1>
+<!-- <h1>🧙‍♀️ About Me</h1> -->
 <!-- <p>
 With a wave of my code-infused wand, I breathe life into captivating user interfaces, conjuring immersive experiences that transcend the ordinary. As a maestro of frontend sorcery, I command the languages of HTML, CSS, and JavaScript with virtuosity, while harnessing the enchanting powers of React, Vue, Angular, Tailwind, Sass, Typescript and more.
 
