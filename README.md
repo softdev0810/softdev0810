@@ -137,6 +137,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   <a href="#">
     <img  src="https://github-profile-trophy.vercel.app/?username=softdev0810&theme=darkhub&row=1&column=6" alt="trophy">
   </a>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=true">    <img  alt="softdev0810's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/softdev0810?cardType=level&preferLogin=true" />  </a>
   <br/>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
     <img height="150em" alt="softdev0810's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/softdev0810?cardType=level&theme=dark&preferLogin=false" />
