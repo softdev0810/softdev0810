@@ -10,7 +10,7 @@ But my sorcery doesn't end there! I possess the mystical knowledge of backend al
   
 </p> -->
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=softdev0810" />
-<img align="center" width="50%" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
+<img align="center" width="50%" margin="auto" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
 <!-- <p>
 Step into the magical realm of my portfolio, where you'll witness the spells I've cast and the captivating wonders I've crafted. Whether you seek a magical collaboration, wish to unlock the secrets of the digital universe, or simply desire to connect with a kindred spirit, I eagerly await your presence!
   
