@@ -25,7 +25,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
 
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=softdev0810&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/softdev0810/github-widgetbox) -->
 
-<p align="left" padding="0">
+<p align="center" padding="0">
   <a href="https://github.com/softdev0810">
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Senior%20Back%20End%20Developer;Full%20Stack%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"> -->
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Senior%20Back%20End%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
