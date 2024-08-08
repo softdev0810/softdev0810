@@ -2,33 +2,11 @@
 🌟✨ Welcome ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I am a Legendary Star of FULL-STACK alchemy.
 </h2>
 
-<!-- <h1>🧙‍♀️ About Me</h1> -->
-<!-- <p>
-With a wave of my code-infused wand, I breathe life into captivating user interfaces, conjuring immersive experiences that transcend the ordinary. As a maestro of frontend sorcery, I command the languages of HTML, CSS, and JavaScript with virtuosity, while harnessing the enchanting powers of React, Vue, Angular, Tailwind, Sass, Typescript and more.
-
-But my sorcery doesn't end there! I possess the mystical knowledge of backend alchemy, wielding the potent forces of Node.js, Express, Django, Ruby on Rails, Laravel, and more. With these powers, I create robust functionalities and seamless interactions that leave users mesmerized.
-  
-</p> -->
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=softdev0810" />
-<!-- <img align="right" width="30%" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" /> -->
-<!-- <p>
-Step into the magical realm of my portfolio, where you'll witness the spells I've cast and the captivating wonders I've crafted. Whether you seek a magical collaboration, wish to unlock the secrets of the digital universe, or simply desire to connect with a kindred spirit, I eagerly await your presence!
-  
-Together, let's shape a digital landscape that radiates with wonder and awe!
-</p> -->
-<!--   <img src="https://komarev.com/ghpvc/?username=softdev0810&style=flat-square&color=blue" alt="" align="center"/> -->
-
-<!-- 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=softdev0810&style=flat-square&color=blue" alt="" align="center"/>
-</div> -->
-
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=softdev0810&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/softdev0810/github-widgetbox) -->
 
 <p align="center" padding="0">
   <a href="https://github.com/softdev0810">
-<!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Senior%20Back%20End%20Developer;Full%20Stack%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"> -->
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Senior%20Back%20End%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Senior%20Back%20End%20Developer;Rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p>
 
